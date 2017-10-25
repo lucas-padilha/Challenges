@@ -1,0 +1,6 @@
+C:\Projetos\HackerHank\ZombieMarch\bin\Debug\ZombieMarch.exe.config
+C:\Projetos\HackerHank\ZombieMarch\bin\Debug\ZombieMarch.exe
+C:\Projetos\HackerHank\ZombieMarch\bin\Debug\ZombieMarch.pdb
+C:\Projetos\HackerHank\ZombieMarch\obj\Debug\ZombieMarch.exe
+C:\Projetos\HackerHank\ZombieMarch\obj\Debug\ZombieMarch.pdb
+C:\Projetos\HackerHank\ZombieMarch\obj\Debug\ZombieMarch.csprojResolveAssemblyReference.cache
