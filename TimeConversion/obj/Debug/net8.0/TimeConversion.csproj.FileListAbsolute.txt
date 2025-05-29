@@ -1,0 +1,15 @@
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/TimeConversion/bin/Debug/net8.0/TimeConversion
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/TimeConversion/bin/Debug/net8.0/TimeConversion.deps.json
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/TimeConversion/bin/Debug/net8.0/TimeConversion.runtimeconfig.json
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/TimeConversion/bin/Debug/net8.0/TimeConversion.dll
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/TimeConversion/bin/Debug/net8.0/TimeConversion.pdb
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/TimeConversion/obj/Debug/net8.0/TimeConversion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/TimeConversion/obj/Debug/net8.0/TimeConversion.AssemblyInfoInputs.cache
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/TimeConversion/obj/Debug/net8.0/TimeConversion.AssemblyInfo.cs
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/TimeConversion/obj/Debug/net8.0/TimeConversion.csproj.CoreCompileInputs.cache
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/TimeConversion/obj/Debug/net8.0/TimeConversion.sourcelink.json
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/TimeConversion/obj/Debug/net8.0/TimeConversion.dll
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/TimeConversion/obj/Debug/net8.0/refint/TimeConversion.dll
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/TimeConversion/obj/Debug/net8.0/TimeConversion.pdb
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/TimeConversion/obj/Debug/net8.0/TimeConversion.genruntimeconfig.cache
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/TimeConversion/obj/Debug/net8.0/ref/TimeConversion.dll
