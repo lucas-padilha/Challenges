@@ -1,6 +1,8 @@
-C:\Projetos\HackerHank\Ticket\bin\Debug\Ticket.exe.config
-C:\Projetos\HackerHank\Ticket\bin\Debug\Ticket.exe
-C:\Projetos\HackerHank\Ticket\bin\Debug\Ticket.pdb
-C:\Projetos\HackerHank\Ticket\obj\Debug\Ticket.csprojResolveAssemblyReference.cache
-C:\Projetos\HackerHank\Ticket\obj\Debug\Ticket.exe
-C:\Projetos\HackerHank\Ticket\obj\Debug\Ticket.pdb
+C:/Projetos/HackerHank/Ticket/bin/Debug/Ticket.exe.config
+C:/Projetos/HackerHank/Ticket/bin/Debug/Ticket.exe
+C:/Projetos/HackerHank/Ticket/bin/Debug/Ticket.pdb
+C:/Projetos/HackerHank/Ticket/obj/Debug/Ticket.csprojResolveAssemblyReference.cache
+C:/Projetos/HackerHank/Ticket/obj/Debug/Ticket.exe
+C:/Projetos/HackerHank/Ticket/obj/Debug/Ticket.pdb
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/Ticket/obj/Debug/Ticket.exe
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/Ticket/obj/Debug/Ticket.pdb

@@ -1,0 +1,15 @@
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/PlusMinus/bin/Debug/net8.0/PlusMinus
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/PlusMinus/bin/Debug/net8.0/PlusMinus.deps.json
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/PlusMinus/bin/Debug/net8.0/PlusMinus.runtimeconfig.json
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/PlusMinus/bin/Debug/net8.0/PlusMinus.dll
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/PlusMinus/bin/Debug/net8.0/PlusMinus.pdb
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/PlusMinus/obj/Debug/net8.0/PlusMinus.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/PlusMinus/obj/Debug/net8.0/PlusMinus.AssemblyInfoInputs.cache
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/PlusMinus/obj/Debug/net8.0/PlusMinus.AssemblyInfo.cs
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/PlusMinus/obj/Debug/net8.0/PlusMinus.csproj.CoreCompileInputs.cache
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/PlusMinus/obj/Debug/net8.0/PlusMinus.sourcelink.json
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/PlusMinus/obj/Debug/net8.0/PlusMinus.dll
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/PlusMinus/obj/Debug/net8.0/refint/PlusMinus.dll
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/PlusMinus/obj/Debug/net8.0/PlusMinus.pdb
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/PlusMinus/obj/Debug/net8.0/PlusMinus.genruntimeconfig.cache
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/PlusMinus/obj/Debug/net8.0/ref/PlusMinus.dll

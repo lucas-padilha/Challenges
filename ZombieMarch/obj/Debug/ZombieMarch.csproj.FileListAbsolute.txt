@@ -1,6 +1,8 @@
-C:\Projetos\HackerHank\ZombieMarch\bin\Debug\ZombieMarch.exe.config
-C:\Projetos\HackerHank\ZombieMarch\bin\Debug\ZombieMarch.exe
-C:\Projetos\HackerHank\ZombieMarch\bin\Debug\ZombieMarch.pdb
-C:\Projetos\HackerHank\ZombieMarch\obj\Debug\ZombieMarch.exe
-C:\Projetos\HackerHank\ZombieMarch\obj\Debug\ZombieMarch.pdb
-C:\Projetos\HackerHank\ZombieMarch\obj\Debug\ZombieMarch.csprojResolveAssemblyReference.cache
+C:/Projetos/HackerHank/ZombieMarch/bin/Debug/ZombieMarch.exe.config
+C:/Projetos/HackerHank/ZombieMarch/bin/Debug/ZombieMarch.exe
+C:/Projetos/HackerHank/ZombieMarch/bin/Debug/ZombieMarch.pdb
+C:/Projetos/HackerHank/ZombieMarch/obj/Debug/ZombieMarch.exe
+C:/Projetos/HackerHank/ZombieMarch/obj/Debug/ZombieMarch.pdb
+C:/Projetos/HackerHank/ZombieMarch/obj/Debug/ZombieMarch.csprojResolveAssemblyReference.cache
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/ZombieMarch/obj/Debug/ZombieMarch.exe
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/ZombieMarch/obj/Debug/ZombieMarch.pdb
