@@ -1,0 +1,15 @@
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/LonelyInteger/bin/Debug/net8.0/LonelyInteger
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/LonelyInteger/bin/Debug/net8.0/LonelyInteger.deps.json
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/LonelyInteger/bin/Debug/net8.0/LonelyInteger.runtimeconfig.json
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/LonelyInteger/bin/Debug/net8.0/LonelyInteger.dll
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/LonelyInteger/bin/Debug/net8.0/LonelyInteger.pdb
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/LonelyInteger/obj/Debug/net8.0/LonelyInteger.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/LonelyInteger/obj/Debug/net8.0/LonelyInteger.AssemblyInfoInputs.cache
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/LonelyInteger/obj/Debug/net8.0/LonelyInteger.AssemblyInfo.cs
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/LonelyInteger/obj/Debug/net8.0/LonelyInteger.csproj.CoreCompileInputs.cache
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/LonelyInteger/obj/Debug/net8.0/LonelyInteger.sourcelink.json
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/LonelyInteger/obj/Debug/net8.0/LonelyInteger.dll
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/LonelyInteger/obj/Debug/net8.0/refint/LonelyInteger.dll
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/LonelyInteger/obj/Debug/net8.0/LonelyInteger.pdb
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/LonelyInteger/obj/Debug/net8.0/LonelyInteger.genruntimeconfig.cache
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/LonelyInteger/obj/Debug/net8.0/ref/LonelyInteger.dll

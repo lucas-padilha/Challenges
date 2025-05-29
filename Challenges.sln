@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinMaxSum", "MinMaxSum\MinM
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeConversion", "TimeConversion\TimeConversion.csproj", "{6E0D67F3-C545-4671-A46C-C8B8418BC392}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LonelyInteger", "LonelyInteger\LonelyInteger.csproj", "{2A0CF1BC-1FBB-465C-A82F-4E2116ABB884}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -26,6 +28,10 @@ Global
 		{6E0D67F3-C545-4671-A46C-C8B8418BC392}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6E0D67F3-C545-4671-A46C-C8B8418BC392}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6E0D67F3-C545-4671-A46C-C8B8418BC392}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A0CF1BC-1FBB-465C-A82F-4E2116ABB884}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A0CF1BC-1FBB-465C-A82F-4E2116ABB884}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A0CF1BC-1FBB-465C-A82F-4E2116ABB884}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A0CF1BC-1FBB-465C-A82F-4E2116ABB884}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
