@@ -1,0 +1,15 @@
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/MinMaxSum/bin/Debug/net8.0/MinMaxSum
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/MinMaxSum/bin/Debug/net8.0/MinMaxSum.deps.json
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/MinMaxSum/bin/Debug/net8.0/MinMaxSum.runtimeconfig.json
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/MinMaxSum/bin/Debug/net8.0/MinMaxSum.dll
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/MinMaxSum/bin/Debug/net8.0/MinMaxSum.pdb
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/MinMaxSum/obj/Debug/net8.0/MinMaxSum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/MinMaxSum/obj/Debug/net8.0/MinMaxSum.AssemblyInfoInputs.cache
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/MinMaxSum/obj/Debug/net8.0/MinMaxSum.AssemblyInfo.cs
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/MinMaxSum/obj/Debug/net8.0/MinMaxSum.csproj.CoreCompileInputs.cache
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/MinMaxSum/obj/Debug/net8.0/MinMaxSum.sourcelink.json
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/MinMaxSum/obj/Debug/net8.0/MinMaxSum.dll
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/MinMaxSum/obj/Debug/net8.0/refint/MinMaxSum.dll
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/MinMaxSum/obj/Debug/net8.0/MinMaxSum.pdb
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/MinMaxSum/obj/Debug/net8.0/MinMaxSum.genruntimeconfig.cache
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/MinMaxSum/obj/Debug/net8.0/ref/MinMaxSum.dll
