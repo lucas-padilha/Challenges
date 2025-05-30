@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeConversion", "TimeConve
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LonelyInteger", "LonelyInteger\LonelyInteger.csproj", "{2A0CF1BC-1FBB-465C-A82F-4E2116ABB884}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jokenpo", "jokenpo\jokenpo.csproj", "{17A5F29E-F26D-481E-9CA9-F6F0B472F9B9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -32,6 +34,10 @@ Global
 		{2A0CF1BC-1FBB-465C-A82F-4E2116ABB884}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2A0CF1BC-1FBB-465C-A82F-4E2116ABB884}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2A0CF1BC-1FBB-465C-A82F-4E2116ABB884}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17A5F29E-F26D-481E-9CA9-F6F0B472F9B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17A5F29E-F26D-481E-9CA9-F6F0B472F9B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17A5F29E-F26D-481E-9CA9-F6F0B472F9B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17A5F29E-F26D-481E-9CA9-F6F0B472F9B9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

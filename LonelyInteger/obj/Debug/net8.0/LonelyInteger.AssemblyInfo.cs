@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LonelyInteger")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dda57369445cd611ff6e8aadc7539964104a3b7f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7fe2897ca94dbd527d563643869b8e6e062011ac")]
 [assembly: System.Reflection.AssemblyProductAttribute("LonelyInteger")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LonelyInteger")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

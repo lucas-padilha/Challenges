@@ -1,0 +1,15 @@
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/Jokenpo/obj/Debug/net8.0/jokenpo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/Jokenpo/obj/Debug/net8.0/jokenpo.AssemblyInfoInputs.cache
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/Jokenpo/obj/Debug/net8.0/jokenpo.AssemblyInfo.cs
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/Jokenpo/obj/Debug/net8.0/jokenpo.csproj.CoreCompileInputs.cache
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/Jokenpo/obj/Debug/net8.0/jokenpo.sourcelink.json
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/Jokenpo/bin/Debug/net8.0/jokenpo
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/jokenpo/bin/Debug/net8.0/jokenpo.deps.json
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/jokenpo/bin/Debug/net8.0/jokenpo.runtimeconfig.json
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/Jokenpo/bin/Debug/net8.0/jokenpo.dll
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/Jokenpo/bin/Debug/net8.0/jokenpo.pdb
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/Jokenpo/obj/Debug/net8.0/jokenpo.dll
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/Jokenpo/obj/Debug/net8.0/refint/jokenpo.dll
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/Jokenpo/obj/Debug/net8.0/jokenpo.pdb
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/jokenpo/obj/Debug/net8.0/jokenpo.genruntimeconfig.cache
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/jokenpo/obj/Debug/net8.0/ref/jokenpo.dll
