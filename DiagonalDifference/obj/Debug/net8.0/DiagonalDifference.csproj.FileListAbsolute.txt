@@ -1,0 +1,15 @@
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/DiagonalDifference/bin/Debug/net8.0/DiagonalDifference
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/DiagonalDifference/bin/Debug/net8.0/DiagonalDifference.deps.json
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/DiagonalDifference/bin/Debug/net8.0/DiagonalDifference.runtimeconfig.json
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/DiagonalDifference/bin/Debug/net8.0/DiagonalDifference.dll
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/DiagonalDifference/bin/Debug/net8.0/DiagonalDifference.pdb
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/DiagonalDifference/obj/Debug/net8.0/DiagonalDifference.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/DiagonalDifference/obj/Debug/net8.0/DiagonalDifference.AssemblyInfoInputs.cache
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/DiagonalDifference/obj/Debug/net8.0/DiagonalDifference.AssemblyInfo.cs
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/DiagonalDifference/obj/Debug/net8.0/DiagonalDifference.csproj.CoreCompileInputs.cache
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/DiagonalDifference/obj/Debug/net8.0/DiagonalDifference.sourcelink.json
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/DiagonalDifference/obj/Debug/net8.0/DiagonalDifference.dll
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/DiagonalDifference/obj/Debug/net8.0/refint/DiagonalDifference.dll
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/DiagonalDifference/obj/Debug/net8.0/DiagonalDifference.pdb
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/DiagonalDifference/obj/Debug/net8.0/DiagonalDifference.genruntimeconfig.cache
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/DiagonalDifference/obj/Debug/net8.0/ref/DiagonalDifference.dll
