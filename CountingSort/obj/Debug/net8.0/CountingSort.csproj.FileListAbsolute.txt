@@ -1,0 +1,15 @@
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/CountingSort/bin/Debug/net8.0/CountingSort
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/CountingSort/bin/Debug/net8.0/CountingSort.deps.json
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/CountingSort/bin/Debug/net8.0/CountingSort.runtimeconfig.json
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/CountingSort/bin/Debug/net8.0/CountingSort.dll
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/CountingSort/bin/Debug/net8.0/CountingSort.pdb
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/CountingSort/obj/Debug/net8.0/CountingSort.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/CountingSort/obj/Debug/net8.0/CountingSort.AssemblyInfoInputs.cache
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/CountingSort/obj/Debug/net8.0/CountingSort.AssemblyInfo.cs
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/CountingSort/obj/Debug/net8.0/CountingSort.csproj.CoreCompileInputs.cache
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/CountingSort/obj/Debug/net8.0/CountingSort.sourcelink.json
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/CountingSort/obj/Debug/net8.0/CountingSort.dll
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/CountingSort/obj/Debug/net8.0/refint/CountingSort.dll
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/CountingSort/obj/Debug/net8.0/CountingSort.pdb
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/CountingSort/obj/Debug/net8.0/CountingSort.genruntimeconfig.cache
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/CountingSort/obj/Debug/net8.0/ref/CountingSort.dll
