@@ -1,0 +1,15 @@
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/Teste/bin/Debug/net8.0/Teste
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/Teste/bin/Debug/net8.0/Teste.deps.json
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/Teste/bin/Debug/net8.0/Teste.runtimeconfig.json
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/Teste/bin/Debug/net8.0/Teste.dll
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/Teste/bin/Debug/net8.0/Teste.pdb
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/Teste/obj/Debug/net8.0/Teste.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/Teste/obj/Debug/net8.0/Teste.AssemblyInfoInputs.cache
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/Teste/obj/Debug/net8.0/Teste.AssemblyInfo.cs
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/Teste/obj/Debug/net8.0/Teste.csproj.CoreCompileInputs.cache
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/Teste/obj/Debug/net8.0/Teste.sourcelink.json
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/Teste/obj/Debug/net8.0/Teste.dll
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/Teste/obj/Debug/net8.0/refint/Teste.dll
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/Teste/obj/Debug/net8.0/Teste.pdb
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/Teste/obj/Debug/net8.0/Teste.genruntimeconfig.cache
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/Teste/obj/Debug/net8.0/ref/Teste.dll

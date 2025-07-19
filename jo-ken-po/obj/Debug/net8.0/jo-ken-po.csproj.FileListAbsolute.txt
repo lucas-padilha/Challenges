@@ -1,0 +1,15 @@
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/jo-ken-po/obj/Debug/net8.0/jo-ken-po.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/jo-ken-po/obj/Debug/net8.0/jo-ken-po.AssemblyInfoInputs.cache
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/jo-ken-po/obj/Debug/net8.0/jo-ken-po.AssemblyInfo.cs
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/jo-ken-po/obj/Debug/net8.0/jo-ken-po.csproj.CoreCompileInputs.cache
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/jo-ken-po/obj/Debug/net8.0/jo-ken-po.sourcelink.json
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/jo-ken-po/bin/Debug/net8.0/jo-ken-po
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/jo-ken-po/bin/Debug/net8.0/jo-ken-po.deps.json
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/jo-ken-po/bin/Debug/net8.0/jo-ken-po.runtimeconfig.json
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/jo-ken-po/bin/Debug/net8.0/jo-ken-po.dll
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/jo-ken-po/bin/Debug/net8.0/jo-ken-po.pdb
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/jo-ken-po/obj/Debug/net8.0/jo-ken-po.dll
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/jo-ken-po/obj/Debug/net8.0/refint/jo-ken-po.dll
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/jo-ken-po/obj/Debug/net8.0/jo-ken-po.pdb
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/jo-ken-po/obj/Debug/net8.0/jo-ken-po.genruntimeconfig.cache
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/jo-ken-po/obj/Debug/net8.0/ref/jo-ken-po.dll

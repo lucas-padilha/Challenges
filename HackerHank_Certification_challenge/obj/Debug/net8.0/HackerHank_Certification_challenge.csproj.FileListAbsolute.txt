@@ -1,0 +1,15 @@
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/HackerHank_Certification_challenge/bin/Debug/net8.0/HackerHank_Certification_challenge
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/HackerHank_Certification_challenge/bin/Debug/net8.0/HackerHank_Certification_challenge.deps.json
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/HackerHank_Certification_challenge/bin/Debug/net8.0/HackerHank_Certification_challenge.runtimeconfig.json
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/HackerHank_Certification_challenge/bin/Debug/net8.0/HackerHank_Certification_challenge.dll
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/HackerHank_Certification_challenge/bin/Debug/net8.0/HackerHank_Certification_challenge.pdb
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/HackerHank_Certification_challenge/obj/Debug/net8.0/HackerHank_Certification_challenge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/HackerHank_Certification_challenge/obj/Debug/net8.0/HackerHank_Certification_challenge.AssemblyInfoInputs.cache
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/HackerHank_Certification_challenge/obj/Debug/net8.0/HackerHank_Certification_challenge.AssemblyInfo.cs
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/HackerHank_Certification_challenge/obj/Debug/net8.0/HackerHank_Certification_challenge.csproj.CoreCompileInputs.cache
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/HackerHank_Certification_challenge/obj/Debug/net8.0/HackerHank_Certification_challenge.sourcelink.json
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/HackerHank_Certification_challenge/obj/Debug/net8.0/HackerHank_Certification_challenge.dll
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/HackerHank_Certification_challenge/obj/Debug/net8.0/refint/HackerHank_Certification_challenge.dll
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/HackerHank_Certification_challenge/obj/Debug/net8.0/HackerHank_Certification_challenge.pdb
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/HackerHank_Certification_challenge/obj/Debug/net8.0/HackerHank_Certification_challenge.genruntimeconfig.cache
+/Users/lucaspadilha/Desktop/Dev/Dotnet/Challenges/HackerHank_Certification_challenge/obj/Debug/net8.0/ref/HackerHank_Certification_challenge.dll
